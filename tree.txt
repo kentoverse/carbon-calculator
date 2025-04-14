@@ -1,0 +1,28 @@
+.
+├── .DS_Store
+├── .vscode
+│   └── launch.json
+├── README.md
+├── backend
+│   └── carbon-calculator-backend
+│       ├── backend
+│       │   └── src
+│       │       └── main
+│       └── pom.xml
+├── carbon-calculator
+│   ├── .DS_Store
+│   ├── .vscode
+│   │   ├── launch.json
+│   │   └── tasks.json
+│   ├── 3
+│   └── jwt-auth-sample.zip
+├── frontend
+│   └── src
+│       └── app
+│           └── auth
+│               ├── login.component.html
+│               └── login.component.ts
+├── package.json
+└── tree.txt
+
+13 directories, 13 files

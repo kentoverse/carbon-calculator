@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot Backend",
+      "request": "launch",
+      "mainClass": "com.example.carbon.Application",
+      "projectName": "carbon-calculator-backend"
+    },
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Angular Frontend",
+      "url": "http://localhost:4200",
+      "webRoot": "${workspaceFolder}/frontend/carbon-calculator-frontend"
+    }
+  ]
+}
